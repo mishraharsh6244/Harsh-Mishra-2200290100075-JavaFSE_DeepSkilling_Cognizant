@@ -1,0 +1,1 @@
+# Week1_SOLID_Design_Patterns Assignments
